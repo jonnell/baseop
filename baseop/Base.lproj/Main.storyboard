@@ -76,7 +76,6 @@
         <!--Third-->
         <scene sceneID="Yqm-Yt-LQT">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="hY1-29-6ak" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <viewController id="ev2-3X-q1N" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="JJA-i5-hbk"/>
@@ -105,6 +104,7 @@
                     </view>
                     <tabBarItem key="tabBarItem" title="Third" id="D9f-9Y-ROU"/>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="hY1-29-6ak" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="2324.5" y="-607.5"/>
         </scene>
@@ -153,10 +153,12 @@
                         </subviews>
                         <color key="backgroundColor" red="0.0036196189466863871" green="0.33136975765228271" blue="0.50649434328079224" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
+                    <toolbarItems/>
+                    <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="tPP-eq-sri" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="666.5" y="611.5"/>
+            <point key="canvasLocation" x="683.5" y="674.5"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="Ao2-t9-U7s">
@@ -197,7 +199,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="P8Y-XL-0OA" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1351.5" y="515.5"/>
+            <point key="canvasLocation" x="1216.5" y="550.5"/>
         </scene>
         <!--newsfeed-->
         <scene sceneID="yl2-sM-qoP">
